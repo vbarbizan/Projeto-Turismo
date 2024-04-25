@@ -1,0 +1,187 @@
+{
+ 
+  "pontos_turisticos": [
+    {
+      "id": 201,
+      "categoria_id": 2,
+      "nome": "Lago Municipal",
+      "descricao": "Um lugar tranquilo, ate demais. Muito lindo o lago, com muitas aves e vegetação abundante, muito bom para fotos e apreciar a natureza., um espaço ao ar livre, usado para caminhada, atividades de esporte e lazer.",
+      "horario_funcionamento": "Aberto 24 horas",
+      "foto": "lago.png",
+      "localizacao": {
+        "logradouro": "Esplanada do Lago Carlos Rodrigues Serra",
+        "numero": "160",
+        "complemento": "Do lado da prefeitura municipal",
+        "bairro": "Vila Serra",
+        "cidade": "Jaboticabal",
+        "estado": "SP"
+      }
+    },
+
+
+
+
+
+    {
+      "id": 301,
+      "categoria_id": 3,
+      "nome": "GringoBar e Café",
+      "descricao": "Estamos localizados no @boxparksp, trazendo uma variedade gastronômica em um espaco aconchegante, com espaco kids e uma loja oficial da fini. delivery",
+      "horario_funcionamento": "11:00 - 14:00, 17:00 - 01:00",
+      "foto": "gringos.png",
+      "localizacao": {
+        "logradouro": "Av. General Glicério",
+        "numero": "953",
+        "complemento": "Proximo ao Subway",
+        "bairro": "Centro de Jaboticabal",
+        "cidade": "Jaboticabal",
+        "estado": "SP"
+      }
+    },
+
+
+
+
+
+    {
+      "id": 401,
+      "categoria_id": 4,
+      "nome": "Novo Espaço",
+      "descricao": " -Compras e varejo. O seu Novo Espaco de compras, gastronomia e lazer, no lugar mais charmoso da cidade em Jaboticabal.",
+      "horario_funcionamento": "Aberto 24 horas",
+      "foto": "nvespaço.png",
+      "localizacao": {
+        "logradouro": "Av. Caetano Merlino",
+        "numero": "280",
+        "complemento": "Em frente a pizzaria BaitaPizza",
+        "bairro": "Athenas Paulista",
+        "cidade": "Jaboticabal",
+        "estado": "SP"
+      }
+    },
+
+
+
+    {
+      "id": 101,
+      "categoria_id": 1,
+      "nome": "IBIS Hotel",
+      "descricao": "O Ibis Hotel oferece apartamentos confortáveis e climatizados, adequados para casais, solteiros e famílias, com Wi-Fi grátis. Seu restaurante oferece café da manhã, almoço e jantar.",
+      "horario_funcionamento": "Aberto 24 horas",
+      "foto":"ibis.jpg" ,
+      "localizacao": {
+        "logradouro": "Avenida Major Novaes",
+        "numero": "70",
+        "complemento": "Proximo do Supermercado Copercana",
+        "bairro": "Sorocabano",
+        "cidade": "Jaboticabal",
+        "estado": "SP"
+      }
+    },
+
+
+
+    {
+      "id": 501,
+      "categoria_id": 5,
+      "nome": "Shopping",
+      "descricao": " O local é pequeno, mas é compatível com o tamanho da cidade, tem poucas lojas, mas as que estão em funcionamento são de qualidade. A praça de alimentação é boa e tem a melhor sorveteria da região.",
+      "horario_funcionamento": "10:00 - 22:00",
+      "foto": "shopping.jpg",
+      "localizacao": {
+        "logradouro": "Praça Dom José Marcondes Homem de Mello",
+        "numero": "146",
+        "complemento": "Do lado do Burguer King",
+        "bairro": "Centro de Jaboticabal",
+        "cidade": "Jaboticabal",
+        "estado": "SP"
+      }
+    },
+
+    {
+      "id": 601,
+      "categoria_id": 6,
+      "nome": "Centro de eventos Cora Coralina",
+      "descricao": " A Associação “Cora Coralina” - Centro Jaboticabalense de Atividades Culturais e Artísticas, fundada em 12 de maio de 1994 é uma associação civil, sem fins lucrativos, com duração indeterminada.",
+      "horario_funcionamento": "Aberto 24 horas",
+      "foto":"cora.jpg",
+      "localizacao": {
+        "logradouro": "Av. Caetano Merlino",
+        "numero": "280",
+        "complemento": "Em frente a pizzaria BaitaPizza",
+        "bairro": "Athenas Paulista",
+        "cidade": "Jaboticabal",
+        "estado": "SP"
+      }
+    },
+
+    {
+      "id": 701,
+      "categoria_id": 7,
+      "nome": "Museu Aloísio de Almeida",
+      "descricao": " O Museu Histórico de Jaboticabal Aloísio de Almeida é um equipamento cultural mantido pela Prefeitura Municipal de Jaboticabal, no interior do estado de São Paulo, Brasil.",
+      "horario_funcionamento": "Aberto 24 horas",
+      "foto": "museu.jpg",
+      "localizacao": {
+        "logradouro": "Av. Caetano Merlino",
+        "numero": "280",
+        "complemento": "Em frente a pizzaria BaitaPizza",
+        "bairro": "Athenas Paulista",
+        "cidade": "Jaboticabal",
+        "estado": "SP"
+      }
+    },
+
+    {
+      "id": 801,
+      "categoria_id": 8,
+      "nome": "Igreja Nossa Senhora do Carmo",
+      "descricao": " A Igreja de Nossa Senhora do Carmo da Antiga Sé começou a ser construída em 1755 e foi inaugurada em 1761. Em 1808, D. João VI a nomeou Capela Real e até a década de 70 foi oficialmente a catedral da Cidade.",
+      "horario_funcionamento": "Aberto 24 horas",
+      "foto": "catedral.jpg",
+      "localizacao": {
+        "logradouro": "Av. Caetano Merlino",
+        "numero": "280",
+        "complemento": "Em frente a pizzaria BaitaPizza",
+        "bairro": "Athenas Paulista",
+        "cidade": "Jaboticabal",
+        "estado": "SP"
+      }
+    },
+
+    {
+      "id": 901,
+      "categoria_id": 9,
+      "nome": "Ginasio Esporte",
+      "descricao": "O ginásio esportivo de Jaboticabal é o local ideal para a prática de esportes de todos os tipos, seja para treinos ou competições, o ginásio é o espaço específicos para os esportes. ",
+      "horario_funcionamento": "Aberto 24 horas",
+      "foto": "ginasio.jpg",
+      "localizacao": {
+        "logradouro": "Av. Caetano Merlino",
+        "numero": "280",
+        "complemento": "Em frente a pizzaria BaitaPizza",
+        "bairro": "Athenas Paulista",
+        "cidade": "Jaboticabal",
+        "estado": "SP"
+      }
+    },
+
+    {
+      "id": 1001,
+      "categoria_id": 10,
+      "nome": "Sthecla Hall",
+      "descricao": " Sthécla Hall alugamos para confraternizações, comemorações, casamentos, aniversários, shows, enfim, para a sua festa como sempre imaginou. Agende seu horário!!",
+      "horario_funcionamento": "Aberto 24 horas",
+      "foto": "sthecla.jpg",
+      "localizacao": {
+        "logradouro": "Av. Caetano Merlino",
+        "numero": "280",
+        "complemento": "Em frente a pizzaria BaitaPizza",
+        "bairro": "Athenas Paulista",
+        "cidade": "Jaboticabal",
+        "estado": "SP"
+      }
+    }
+
+  ]
+}
